@@ -4,7 +4,7 @@ First Find
 Unzip this archive and find the file named 'uber-secret.txt'
 
 - [Download zip file](https://artifacts.picoctf.net/c/501/files.zip)
-## SOLUCION
+## SOLUCION 
 
 ┌──(kali㉿kali)-[~/Downloads]
 └─$ ls
