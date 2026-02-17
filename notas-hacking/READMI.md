@@ -1,4 +1,4 @@
-Fundamentos de la seguridad de la indormacion
+	Fundamentos de la seguridad de la Informacion
 
 Notas de hacking de los retos resueltos durante el semestre
 
