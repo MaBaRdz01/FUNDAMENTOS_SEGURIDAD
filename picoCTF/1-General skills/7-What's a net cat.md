@@ -1,4 +1,3 @@
-picoCTF{nEtCat_Mast3ry_5c7cC1a9}
 ## RETO: 
 What's a net cat
 ## DESCRIPCION:
