@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 4 - Forensic/9-Ph4nt0m 1ntrud3r.md",
+                "file": "picoCTF/Forensic 4/6-Operation Oni.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9-Ph4nt0m 1ntrud3r"
+              "title": "6-Operation Oni"
             }
           }
         ]
@@ -185,6 +185,16 @@
   },
   "active": "b95b305dc6164c1e",
   "lastOpenFiles": [
+    "Pasted image 20260329200557.png",
+    "picoCTF/Forensic 4/5-Operation Orchid.md",
+    "picoCTF/Forensic 4/4-Sleuthkit Apprentice.md",
+    "picoCTF/Forensic 4/3-Sleuthkit Intro.md",
+    "picoCTF/Forensic 4/2-Disk, disk, sleuth!.md",
+    "picoCTF/Forensic 4/1-Milkslap.md",
+    "picoCTF/Forensic 4/6-Operation Oni.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/Tarea 4 - Forensic/9-Ph4nt0m 1ntrud3r.md",
+    "picoCTF/Forensic 4",
     "picoCTF/Tarea 4 - Forensic/8-RED.md",
     "picoCTF/Tarea 4 - Forensic/7-Secret of the Polyglo.md",
     "picoCTF/Tarea 4 - Forensic/6-CanYouSee.md",
@@ -194,8 +204,6 @@
     "picoCTF/Tarea 4 - Forensic/3-Redaction gone wrong.md",
     "picoCTF/Tarea 4 - Forensic/2-St3g0.md",
     "picoCTF/Tarea 4 - Forensic/1.-information.md",
-    "picoCTF/Tarea 4 - Forensic/9-Ph4nt0m 1ntrud3r.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/EXAMEN 1/WEB/8-SSTI2.md",
     "picoCTF/Tarea 4 - Forensic",
     "picoCTF/EXAMEN 1/WEB/7-SQL Direct.md",
@@ -206,12 +214,6 @@
     "picoCTF/EXAMEN 1/WEB/2-Cookie Monster Secret Recipe.md",
     "picoCTF/EXAMEN 1/WEB/1-Bookmarklet.md",
     "picoCTF/EXAMEN 1/GENERAL SKILLS/10-Specialer.md",
-    "picoCTF/EXAMEN 1/GENERAL SKILLS/9-SansAlpha.md",
-    "picoCTF/EXAMEN 1/GENERAL SKILLS/8-Python Wrangling.md",
-    "picoCTF/EXAMEN 1/GENERAL SKILLS/7-flag_shop.md",
-    "picoCTF/EXAMEN 1/GENERAL SKILLS/5-Rust fixme 3.md",
-    "picoCTF/EXAMEN 1/GENERAL SKILLS/4-Rust fixme 2.md",
-    "picoCTF/EXAMEN 1/GENERAL SKILLS/3-Rust fixme 1.md",
     "picoCTF/EXAMEN 1/WEB",
     "picoCTF/EXAMEN 1/GENERAL SKILLS/Sin nombre",
     "picoCTF/EXAMEN 1/GENERAL SKILLS",
@@ -220,7 +222,6 @@
     "picoCTF/Forensic 2/Sin nombre",
     "picoCTF/Forensic 2/h",
     "picoCTF/Forensic 2",
-    "picoCTF/Forensic 1",
     "Pasted image 20260309084014.png",
     "Pasted image 20260309005748.png",
     "Pasted image 20260223234156.png",
