@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/EXAMEN 1/WEB/8-SSTI2.md",
+                "file": "picoCTF/Tarea 4 - Forensic/9-Ph4nt0m 1ntrud3r.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8-SSTI2"
+              "title": "9-Ph4nt0m 1ntrud3r"
             }
           }
         ]
@@ -185,9 +185,21 @@
   },
   "active": "b95b305dc6164c1e",
   "lastOpenFiles": [
+    "picoCTF/Tarea 4 - Forensic/8-RED.md",
+    "picoCTF/Tarea 4 - Forensic/7-Secret of the Polyglo.md",
+    "picoCTF/Tarea 4 - Forensic/6-CanYouSee.md",
+    "picoCTF/Tarea 4 - Forensic/5-Scan Surprise.md",
+    "picoCTF/Tarea 4 - Forensic/4-hideme.md",
+    "Pasted image 20260329174749.png",
+    "picoCTF/Tarea 4 - Forensic/3-Redaction gone wrong.md",
+    "picoCTF/Tarea 4 - Forensic/2-St3g0.md",
+    "picoCTF/Tarea 4 - Forensic/1.-information.md",
+    "picoCTF/Tarea 4 - Forensic/9-Ph4nt0m 1ntrud3r.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/EXAMEN 1/WEB/8-SSTI2.md",
+    "picoCTF/Tarea 4 - Forensic",
     "picoCTF/EXAMEN 1/WEB/7-SQL Direct.md",
     "picoCTF/EXAMEN 1/WEB/4-SSTI1.md",
-    "picoCTF/EXAMEN 1/WEB/8-SSTI2.md",
     "picoCTF/EXAMEN 1/WEB/6-Java Code Analysis.md",
     "picoCTF/EXAMEN 1/WEB/5-findme.md",
     "picoCTF/EXAMEN 1/WEB/3-head-dump.md",
@@ -200,28 +212,16 @@
     "picoCTF/EXAMEN 1/GENERAL SKILLS/5-Rust fixme 3.md",
     "picoCTF/EXAMEN 1/GENERAL SKILLS/4-Rust fixme 2.md",
     "picoCTF/EXAMEN 1/GENERAL SKILLS/3-Rust fixme 1.md",
-    "picoCTF/EXAMEN 1/GENERAL SKILLS/6-dont-you-love-banners.md",
-    "picoCTF/Plantilla.md",
-    "picoCTF/EXAMEN 1/GENERAL SKILLS/1-FANTASY CTF.md",
-    "picoCTF/EXAMEN 1/GENERAL SKILLS/2-HashingJobApp.md",
-    "picoCTF/EXAMEN 1/WEB/Sin título 8.md",
-    "picoCTF/EXAMEN 1/WEB/Sin título 7.md",
-    "picoCTF/Tarea 3 -Concurso picoCTF/10-bytemancy 0.md",
     "picoCTF/EXAMEN 1/WEB",
     "picoCTF/EXAMEN 1/GENERAL SKILLS/Sin nombre",
-    "picoCTF/EXAMEN 1/WEB.md",
     "picoCTF/EXAMEN 1/GENERAL SKILLS",
     "picoCTF/EXAMEN 1",
-    "picoCTF/Tarea 3 -Concurso picoCTF/9-Password Profiler.md",
-    "picoCTF/Tarea 3 -Concurso picoCTF/8- bytemancy 3.md",
-    "picoCTF/Tarea 3 -Concurso picoCTF/7-MY GIT.md",
     "picoCTF/Tarea 3 -Concurso picoCTF",
     "picoCTF/Forensic 2/Sin nombre",
     "picoCTF/Forensic 2/h",
     "picoCTF/Forensic 2",
     "picoCTF/Forensic 1",
     "Pasted image 20260309084014.png",
-    "picoCTF/Tarea 2 Web",
     "Pasted image 20260309005748.png",
     "Pasted image 20260223234156.png",
     "Pasted image 20260223215514.png",
@@ -229,7 +229,6 @@
     "Pasted image 20260223144717.png",
     "Pasted image 20260223144558.png",
     "Pasted image 20260223123645.png",
-    "Pasted image 20260223123534.png",
-    "Pasted image 20260223123517.png"
+    "Pasted image 20260223123534.png"
   ]
 }
