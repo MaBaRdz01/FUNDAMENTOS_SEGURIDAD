@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 4/6-Operation Oni.md",
+                "file": "picoCTF/Crypto/1.The numbers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6-Operation Oni"
+              "title": "1.The numbers"
             }
           }
         ]
@@ -183,37 +183,39 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b95b305dc6164c1e",
+  "active": "9ab8fa0e3f02273b",
   "lastOpenFiles": [
+    "picoCTF/Crypto/8.interencdec.md",
+    "picoCTF/Crypto/7.waves over lambda.md",
+    "picoCTF/Crypto/6.Tapping.md",
+    "picoCTF/Crypto/5.la cifra de.md",
+    "picoCTF/Crypto/4.Easy 1.md",
+    "picoCTF/Crypto/3.Caesar.md",
+    "picoCTF/Crypto/2.13.md",
+    "picoCTF/Crypto/1.The numbers.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/Forensic 2/1-m00nwalk.md",
+    "picoCTF/Crypto",
+    "picoCTF/Forensic 2/5-shark on wire 2.md",
+    "picoCTF/Forensic 2/4-like1000.md",
+    "picoCTF/Forensic 2/3-c0rrupt.md",
+    "picoCTF/Forensic 2/2- WhitePages.md",
+    "picoCTF/Tarea 3 -Concurso picoCTF/10-bytemancy 0.md",
+    "picoCTF/Tarea 3 -Concurso picoCTF/9-Password Profiler.md",
+    "picoCTF/Tarea 3 -Concurso picoCTF/6-MultiCode.md",
+    "picoCTF/Tarea 3 -Concurso picoCTF/3-SUDO MAKE ME A SANDWICH.md",
+    "picoCTF/Forensic 4/6-Operation Oni.md",
     "Pasted image 20260329200557.png",
     "picoCTF/Forensic 4/5-Operation Orchid.md",
     "picoCTF/Forensic 4/4-Sleuthkit Apprentice.md",
     "picoCTF/Forensic 4/3-Sleuthkit Intro.md",
     "picoCTF/Forensic 4/2-Disk, disk, sleuth!.md",
     "picoCTF/Forensic 4/1-Milkslap.md",
-    "picoCTF/Forensic 4/6-Operation Oni.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/Tarea 4 - Forensic/9-Ph4nt0m 1ntrud3r.md",
     "picoCTF/Forensic 4",
     "picoCTF/Tarea 4 - Forensic/8-RED.md",
-    "picoCTF/Tarea 4 - Forensic/7-Secret of the Polyglo.md",
-    "picoCTF/Tarea 4 - Forensic/6-CanYouSee.md",
-    "picoCTF/Tarea 4 - Forensic/5-Scan Surprise.md",
-    "picoCTF/Tarea 4 - Forensic/4-hideme.md",
     "Pasted image 20260329174749.png",
-    "picoCTF/Tarea 4 - Forensic/3-Redaction gone wrong.md",
-    "picoCTF/Tarea 4 - Forensic/2-St3g0.md",
-    "picoCTF/Tarea 4 - Forensic/1.-information.md",
-    "picoCTF/EXAMEN 1/WEB/8-SSTI2.md",
     "picoCTF/Tarea 4 - Forensic",
-    "picoCTF/EXAMEN 1/WEB/7-SQL Direct.md",
-    "picoCTF/EXAMEN 1/WEB/4-SSTI1.md",
-    "picoCTF/EXAMEN 1/WEB/6-Java Code Analysis.md",
-    "picoCTF/EXAMEN 1/WEB/5-findme.md",
-    "picoCTF/EXAMEN 1/WEB/3-head-dump.md",
-    "picoCTF/EXAMEN 1/WEB/2-Cookie Monster Secret Recipe.md",
-    "picoCTF/EXAMEN 1/WEB/1-Bookmarklet.md",
-    "picoCTF/EXAMEN 1/GENERAL SKILLS/10-Specialer.md",
     "picoCTF/EXAMEN 1/WEB",
     "picoCTF/EXAMEN 1/GENERAL SKILLS/Sin nombre",
     "picoCTF/EXAMEN 1/GENERAL SKILLS",
@@ -221,7 +223,6 @@
     "picoCTF/Tarea 3 -Concurso picoCTF",
     "picoCTF/Forensic 2/Sin nombre",
     "picoCTF/Forensic 2/h",
-    "picoCTF/Forensic 2",
     "Pasted image 20260309084014.png",
     "Pasted image 20260309005748.png",
     "Pasted image 20260223234156.png",
@@ -229,7 +230,6 @@
     "Pasted image 20260223163817.png",
     "Pasted image 20260223144717.png",
     "Pasted image 20260223144558.png",
-    "Pasted image 20260223123645.png",
-    "Pasted image 20260223123534.png"
+    "Pasted image 20260223123645.png"
   ]
 }
