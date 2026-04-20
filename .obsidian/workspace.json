@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Crypto/1.The numbers.md",
+                "file": "picoCTF/Crypto2/sra-pop-quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.The numbers"
+              "title": "sra-pop-quiz"
             }
           }
         ]
@@ -183,8 +183,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9ab8fa0e3f02273b",
+  "active": "b95b305dc6164c1e",
   "lastOpenFiles": [
+    "picoCTF/Plantilla.md",
+    "picoCTF/Crypto/1.The numbers.md",
+    "picoCTF/Crypto2/sra-pop-quiz.md",
+    "picoCTF/Forensic 2/2- WhitePages.md",
+    "picoCTF/Crypto2",
+    "picoCTF/Forensic 2/1-m00nwalk.md",
+    "picoCTF/Forensic 2/5-shark on wire 2.md",
+    "picoCTF/Forensic 2/4-like1000.md",
+    "picoCTF/Forensic 2/3-c0rrupt.md",
     "picoCTF/Crypto/8.interencdec.md",
     "picoCTF/Crypto/7.waves over lambda.md",
     "picoCTF/Crypto/6.Tapping.md",
@@ -192,14 +201,7 @@
     "picoCTF/Crypto/4.Easy 1.md",
     "picoCTF/Crypto/3.Caesar.md",
     "picoCTF/Crypto/2.13.md",
-    "picoCTF/Crypto/1.The numbers.md",
-    "picoCTF/Plantilla.md",
-    "picoCTF/Forensic 2/1-m00nwalk.md",
     "picoCTF/Crypto",
-    "picoCTF/Forensic 2/5-shark on wire 2.md",
-    "picoCTF/Forensic 2/4-like1000.md",
-    "picoCTF/Forensic 2/3-c0rrupt.md",
-    "picoCTF/Forensic 2/2- WhitePages.md",
     "picoCTF/Tarea 3 -Concurso picoCTF/10-bytemancy 0.md",
     "picoCTF/Tarea 3 -Concurso picoCTF/9-Password Profiler.md",
     "picoCTF/Tarea 3 -Concurso picoCTF/6-MultiCode.md",
@@ -213,7 +215,6 @@
     "picoCTF/Forensic 4/1-Milkslap.md",
     "picoCTF/Tarea 4 - Forensic/9-Ph4nt0m 1ntrud3r.md",
     "picoCTF/Forensic 4",
-    "picoCTF/Tarea 4 - Forensic/8-RED.md",
     "Pasted image 20260329174749.png",
     "picoCTF/Tarea 4 - Forensic",
     "picoCTF/EXAMEN 1/WEB",
@@ -222,7 +223,6 @@
     "picoCTF/EXAMEN 1",
     "picoCTF/Tarea 3 -Concurso picoCTF",
     "picoCTF/Forensic 2/Sin nombre",
-    "picoCTF/Forensic 2/h",
     "Pasted image 20260309084014.png",
     "Pasted image 20260309005748.png",
     "Pasted image 20260223234156.png",
