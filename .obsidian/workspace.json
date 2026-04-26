@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Crypto2/sra-pop-quiz.md",
+                "file": "picoCTF/Crypto3/4.b00tl3gRSA3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sra-pop-quiz"
+              "title": "4.b00tl3gRSA3"
             }
           }
         ]
@@ -185,9 +185,14 @@
   },
   "active": "b95b305dc6164c1e",
   "lastOpenFiles": [
+    "picoCTF/Crypto3/3.b00tl3gRSA2.md",
+    "picoCTF/Crypto3/2.Mind your Ps and Qs.md",
+    "picoCTF/Crypto3/1.Mini RSA.md",
+    "picoCTF/Crypto3/4.b00tl3gRSA3.md",
     "picoCTF/Plantilla.md",
-    "picoCTF/Crypto/1.The numbers.md",
     "picoCTF/Crypto2/sra-pop-quiz.md",
+    "picoCTF/Crypto3",
+    "picoCTF/Crypto/1.The numbers.md",
     "picoCTF/Forensic 2/2- WhitePages.md",
     "picoCTF/Crypto2",
     "picoCTF/Forensic 2/1-m00nwalk.md",
@@ -210,10 +215,6 @@
     "Pasted image 20260329200557.png",
     "picoCTF/Forensic 4/5-Operation Orchid.md",
     "picoCTF/Forensic 4/4-Sleuthkit Apprentice.md",
-    "picoCTF/Forensic 4/3-Sleuthkit Intro.md",
-    "picoCTF/Forensic 4/2-Disk, disk, sleuth!.md",
-    "picoCTF/Forensic 4/1-Milkslap.md",
-    "picoCTF/Tarea 4 - Forensic/9-Ph4nt0m 1ntrud3r.md",
     "picoCTF/Forensic 4",
     "Pasted image 20260329174749.png",
     "picoCTF/Tarea 4 - Forensic",
@@ -222,7 +223,6 @@
     "picoCTF/EXAMEN 1/GENERAL SKILLS",
     "picoCTF/EXAMEN 1",
     "picoCTF/Tarea 3 -Concurso picoCTF",
-    "picoCTF/Forensic 2/Sin nombre",
     "Pasted image 20260309084014.png",
     "Pasted image 20260309005748.png",
     "Pasted image 20260223234156.png",
