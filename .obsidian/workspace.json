@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Crypto3/4.b00tl3gRSA3.md",
+                "file": "picoCTF/crypto4/5.flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.b00tl3gRSA3"
+              "title": "5.flags"
             }
           }
         ]
@@ -185,11 +185,18 @@
   },
   "active": "b95b305dc6164c1e",
   "lastOpenFiles": [
+    "picoCTF/crypto4/4.ReadMyCert.md",
+    "picoCTF/crypto4/3.HideToSee.md",
+    "picoCTF/crypto4/2.basic-mod1.md",
+    "picoCTF/crypto4/1.Pixelated.md",
+    "Pasted image 20260425232841.png",
+    "picoCTF/crypto4/5.flags.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/Crypto3/4.b00tl3gRSA3.md",
+    "picoCTF/crypto4",
     "picoCTF/Crypto3/3.b00tl3gRSA2.md",
     "picoCTF/Crypto3/2.Mind your Ps and Qs.md",
     "picoCTF/Crypto3/1.Mini RSA.md",
-    "picoCTF/Crypto3/4.b00tl3gRSA3.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/Crypto2/sra-pop-quiz.md",
     "picoCTF/Crypto3",
     "picoCTF/Crypto/1.The numbers.md",
@@ -208,13 +215,7 @@
     "picoCTF/Crypto/2.13.md",
     "picoCTF/Crypto",
     "picoCTF/Tarea 3 -Concurso picoCTF/10-bytemancy 0.md",
-    "picoCTF/Tarea 3 -Concurso picoCTF/9-Password Profiler.md",
-    "picoCTF/Tarea 3 -Concurso picoCTF/6-MultiCode.md",
-    "picoCTF/Tarea 3 -Concurso picoCTF/3-SUDO MAKE ME A SANDWICH.md",
-    "picoCTF/Forensic 4/6-Operation Oni.md",
     "Pasted image 20260329200557.png",
-    "picoCTF/Forensic 4/5-Operation Orchid.md",
-    "picoCTF/Forensic 4/4-Sleuthkit Apprentice.md",
     "picoCTF/Forensic 4",
     "Pasted image 20260329174749.png",
     "picoCTF/Tarea 4 - Forensic",
@@ -222,14 +223,12 @@
     "picoCTF/EXAMEN 1/GENERAL SKILLS/Sin nombre",
     "picoCTF/EXAMEN 1/GENERAL SKILLS",
     "picoCTF/EXAMEN 1",
-    "picoCTF/Tarea 3 -Concurso picoCTF",
     "Pasted image 20260309084014.png",
     "Pasted image 20260309005748.png",
     "Pasted image 20260223234156.png",
     "Pasted image 20260223215514.png",
     "Pasted image 20260223163817.png",
     "Pasted image 20260223144717.png",
-    "Pasted image 20260223144558.png",
-    "Pasted image 20260223123645.png"
+    "Pasted image 20260223144558.png"
   ]
 }
