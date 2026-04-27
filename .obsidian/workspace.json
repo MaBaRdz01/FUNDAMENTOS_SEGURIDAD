@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea4 Crypto/10.Vigenere.md",
+                "file": "picoCTF/Forensic 2/5-shark on wire 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10.Vigenere"
+              "title": "5-shark on wire 2"
             }
           }
         ]
@@ -185,6 +185,12 @@
   },
   "active": "b95b305dc6164c1e",
   "lastOpenFiles": [
+    "picoCTF/Forensic 2/4-like1000.md",
+    "picoCTF/Forensic 2/5-shark on wire 2.md",
+    "picoCTF/Forensic 2/3-c0rrupt.md",
+    "picoCTF/Forensic 2/2- WhitePages.md",
+    "picoCTF/Forensic 2/1-m00nwalk.md",
+    "picoCTF/Tarea4 Crypto/10.Vigenere.md",
     "picoCTF/Tarea4 Crypto/9.substitution2.md",
     "picoCTF/Tarea4 Crypto/6.rail-fence.md",
     "picoCTF/Tarea4 Crypto/8.substitution1.md",
@@ -194,7 +200,6 @@
     "picoCTF/Tarea4 Crypto/3.EVEN RSA CAN BE BROKEN.md",
     "picoCTF/Tarea4 Crypto/1.Crack the Power.md",
     "picoCTF/Tarea4 Crypto/2.credstuff.md",
-    "picoCTF/Tarea4 Crypto/10.Vigenere.md",
     "picoCTF/Plantilla.md",
     "picoCTF/crypto4/5.flags.md",
     "picoCTF/Tarea4 Crypto",
@@ -209,13 +214,8 @@
     "picoCTF/Crypto3/3.b00tl3gRSA2.md",
     "picoCTF/Crypto3/2.Mind your Ps and Qs.md",
     "picoCTF/Crypto3/1.Mini RSA.md",
-    "picoCTF/Crypto2/sra-pop-quiz.md",
     "picoCTF/Crypto3",
-    "picoCTF/Crypto/1.The numbers.md",
-    "picoCTF/Forensic 2/2- WhitePages.md",
     "picoCTF/Crypto2",
-    "picoCTF/Forensic 2/1-m00nwalk.md",
-    "picoCTF/Forensic 2/5-shark on wire 2.md",
     "picoCTF/Crypto",
     "Pasted image 20260329200557.png",
     "picoCTF/Forensic 4",
