@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Forensic 3/5.MacroHard WeakEdge.md",
+                "file": "picoCTF/Reversing Parte1/5.vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.MacroHard WeakEdge"
+              "title": "5.vault-door-5"
             }
           }
         ]
@@ -185,12 +185,20 @@
   },
   "active": "b95b305dc6164c1e",
   "lastOpenFiles": [
+    "picoCTF/Reversing Parte1/4.vault-door-4.md",
+    "picoCTF/Reversing Parte1/3.vault-door-3.md",
+    "picoCTF/Reversing Parte1/2.vault-door-1.md",
+    "picoCTF/Reversing Parte1/1.vault-door-training.md",
+    "picoCTF/Reversing Parte1/5.vault-door-5.md",
+    "picoCTF/Plantilla.md",
+    "Sin título.base",
+    "picoCTF/Forensic 3/5.MacroHard WeakEdge.md",
+    "picoCTF/Reversing Parte1",
+    "picoCTF/Sin título.md",
     "picoCTF/Forensic 3/4.tunn3l_v1s10n.md",
     "picoCTF/Forensic 3/3.Matryoshka doll.md",
     "picoCTF/Forensic 3/2.Webnet1.md",
     "picoCTF/Forensic 3/1.WebNet0.md",
-    "picoCTF/Forensic 3/5.MacroHard WeakEdge.md",
-    "picoCTF/Plantilla.md",
     "picoCTF/Forensic 2/5-shark on wire 2.md",
     "picoCTF/Forensic 3",
     "picoCTF/Forensic 2/4-like1000.md",
@@ -205,14 +213,7 @@
     "picoCTF/Tarea4 Crypto/5.morse-code.md",
     "picoCTF/Tarea4 Crypto/4.hashcrack.md",
     "picoCTF/Tarea4 Crypto/3.EVEN RSA CAN BE BROKEN.md",
-    "picoCTF/Tarea4 Crypto/1.Crack the Power.md",
-    "picoCTF/Tarea4 Crypto/2.credstuff.md",
-    "picoCTF/crypto4/5.flags.md",
     "picoCTF/Tarea4 Crypto",
-    "picoCTF/Sin título.md",
-    "picoCTF/crypto4/4.ReadMyCert.md",
-    "picoCTF/crypto4/3.HideToSee.md",
-    "picoCTF/crypto4/2.basic-mod1.md",
     "Pasted image 20260425232841.png",
     "picoCTF/crypto4",
     "picoCTF/Crypto3",
@@ -222,8 +223,6 @@
     "picoCTF/Forensic 4",
     "Pasted image 20260329174749.png",
     "picoCTF/Tarea 4 - Forensic",
-    "picoCTF/EXAMEN 1/WEB",
-    "picoCTF/EXAMEN 1/GENERAL SKILLS/Sin nombre",
     "Pasted image 20260309084014.png",
     "Pasted image 20260309005748.png",
     "Pasted image 20260223234156.png",
