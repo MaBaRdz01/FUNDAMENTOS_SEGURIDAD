@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing Parte1/5.vault-door-5.md",
+                "file": "picoCTF/Reversing Parte 2/5.Picker III.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.vault-door-5"
+              "title": "5.Picker III"
+            }
+          },
+          {
+            "id": "c2e2856d5378c5af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "picoCTF/Reversing Parte 2/6.Picker IV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6.Picker IV"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,14 +198,21 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "b95b305dc6164c1e",
+  "active": "c2e2856d5378c5af",
   "lastOpenFiles": [
+    "picoCTF/Reversing Parte 2/5.Picker III.md",
+    "picoCTF/Reversing Parte 2/3.Picker I.md",
+    "picoCTF/Reversing Parte 2/4.Picker II.md",
+    "picoCTF/Reversing Parte 2/2.timer.md",
+    "picoCTF/Reversing Parte 2/1.Safe Opener 2.md",
+    "picoCTF/Reversing Parte 2/6.Picker IV.md",
+    "picoCTF/Plantilla.md",
+    "picoCTF/Reversing Parte1/5.vault-door-5.md",
+    "picoCTF/Reversing Parte 2",
     "picoCTF/Reversing Parte1/4.vault-door-4.md",
     "picoCTF/Reversing Parte1/3.vault-door-3.md",
     "picoCTF/Reversing Parte1/2.vault-door-1.md",
     "picoCTF/Reversing Parte1/1.vault-door-training.md",
-    "picoCTF/Reversing Parte1/5.vault-door-5.md",
-    "picoCTF/Plantilla.md",
     "Sin título.base",
     "picoCTF/Forensic 3/5.MacroHard WeakEdge.md",
     "picoCTF/Reversing Parte1",
@@ -208,11 +230,6 @@
     "picoCTF/Tarea4 Crypto/10.Vigenere.md",
     "picoCTF/Tarea4 Crypto/9.substitution2.md",
     "picoCTF/Tarea4 Crypto/6.rail-fence.md",
-    "picoCTF/Tarea4 Crypto/8.substitution1.md",
-    "picoCTF/Tarea4 Crypto/7.substitution0.md",
-    "picoCTF/Tarea4 Crypto/5.morse-code.md",
-    "picoCTF/Tarea4 Crypto/4.hashcrack.md",
-    "picoCTF/Tarea4 Crypto/3.EVEN RSA CAN BE BROKEN.md",
     "picoCTF/Tarea4 Crypto",
     "Pasted image 20260425232841.png",
     "picoCTF/crypto4",
@@ -222,7 +239,6 @@
     "Pasted image 20260329200557.png",
     "picoCTF/Forensic 4",
     "Pasted image 20260329174749.png",
-    "picoCTF/Tarea 4 - Forensic",
     "Pasted image 20260309084014.png",
     "Pasted image 20260309005748.png",
     "Pasted image 20260223234156.png",
